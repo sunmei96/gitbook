@@ -8,14 +8,12 @@
 
    ```
     npm install gitbook-cli -g
-
    ```
 
 3. 初始化一个目录
 
    ```
     gitbook init
-
    ```
 
 4. 编写SUMMARY.md目录文件
@@ -34,7 +32,7 @@
    (
    demo.md
    )
- 
+
     * [第二章]
    (
    demo1.md
